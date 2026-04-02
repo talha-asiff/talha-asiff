@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎶 Hi, I'm Talha Asif<br>I'm a Bachelor of Software Engineering (BSSE) student at COMSATS Lahore<br>Currently, I'm learning and building projects in 📱 app and web development.<br>I enjoy improving my coding skills, exploring new technologies, and creating clean, user-friendly applications 😊<br><br>(Add a small logo of comsats before the "COMSATS" text in above paragraph, if possible)
+🎶 Hi, I'm Talha Asif. I'm a Bachelor of Software Engineering (BSSE) student at COMSATS Lahore<br>Currently, I'm learning and building projects in 📱 app and web development. I enjoy improving my coding skills, exploring new technologies, and creating clean, user-friendly applications 😊
 
 
 ## 🌐 Socials:
