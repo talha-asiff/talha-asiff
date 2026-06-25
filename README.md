@@ -17,19 +17,3 @@
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<div style="border: 0.1em solid #333; background-color: #1a1a1a; color: #0f0; font-family: 'Courier New', Courier, monospace; font-size: 1em; padding: 1.5em 1em; width: 12em; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 4px; position: relative; overflow: hidden; box-sizing: border-box;">
-  
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 1.5em; background-color: #333; border-top-left-radius: 4px; border-top-right-radius: 4px; padding: 0 0.4em; box-sizing: border-box;">
-    <div style="float: left; line-height: 1.5em; color: #eee;">Status</div>
-    <div style="float: right;">
-      <div style="display: inline-block; width: 0.6em; height: 0.6em; margin-left: 0.4em; border-radius: 50%; background-color: #e33;"></div>
-      <div style="display: inline-block; width: 0.6em; height: 0.6em; margin-left: 0.4em; border-radius: 50%; background-color: #ee0;"></div>
-      <div style="display: inline-block; width: 0.6em; height: 0.6em; margin-left: 0.4em; border-radius: 50%; background-color: #0b0;"></div>
-    </div>
-  </div>
-
-  <div style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: 0.2em solid green; margin-top: 1.5em;">
-    Hello world!
-  </div>
-</div>
