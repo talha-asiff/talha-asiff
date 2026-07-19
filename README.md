@@ -2,10 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Talha+Asif;Software+Engineer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dynamic Tech Stats" />
+</div>
+
 # 💫 About Me:
 🎶 Hi, I'm Talha Asif. I'm a Bachelor of Software Engineering (BSSE) student at COMSATS Lahore<br>Currently, I'm learning and building projects in 📱 app and web development. I enjoy improving my coding skills, exploring new technologies, and creating clean, user-friendly applications 😊
 
-🌐 **Portfolio:** [talhaasiff.netlify.app](https://talhaasiff.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge&logo=google-chrome)](https://talhaasiff.netlify.app/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notur_heichou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaasif.dev@gmail.com) 
