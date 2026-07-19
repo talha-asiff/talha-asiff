@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+I+am+Talha+Asif;Software+Engineer+%26+Game+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Talha+Asif;Software+Engineer" alt="Typing SVG" />
 </div>
----
+
 # 💫 About Me:
 🎶 Hi, I'm Talha Asif. I'm a Bachelor of Software Engineering (BSSE) student at COMSATS Lahore<br>Currently, I'm learning and building projects in 📱 app and web development. I enjoy improving my coding skills, exploring new technologies, and creating clean, user-friendly applications 😊
 
