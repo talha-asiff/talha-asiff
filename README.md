@@ -10,21 +10,15 @@
 🎶 Hi, I'm Talha Asif. I'm a Bachelor of Software Engineering (BSSE) student at COMSATS Lahore<br>Currently, I'm learning and building projects in 📱 app and web development. I enjoy improving my coding skills, exploring new technologies, and creating clean, user-friendly applications 😊
 
 [![My Portfolio](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge&logo=google-chrome)](https://talhaasiff.netlify.app/)
+---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Animated GitHub Stats Card -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=talha-asiff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Animated Streak Stats Card -->
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-asiff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-asiff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-asiff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-asiff&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=talha-asiff&theme=tokyonight&hide_border=true)
 
 ---
 
