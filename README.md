@@ -13,13 +13,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-asiff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-asiff&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=talha-asiff&theme=tokyonight&hide_border=true)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha-asiff&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 ---
 
 ## 🌐 Socials:
