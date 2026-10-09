@@ -10,14 +10,14 @@
 
 <div align="center">
 
-[![My Portfolio](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge&logo=google-chrome)](https://talhaasiff.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge&logo=google-chrome)](https://talhaasiff.netlify.app/) <br>
 [![Profile Views](https://komarev.com/ghpvc/?username=talha-asiff&color=blue)](https://github.com/talha-asiff)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notur_heichou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaasif.dev@gmail.com) 
 
 </div>
 
 <p align="center">
-[![Profile Views](https://komarev.com/ghpvc/?username=talha-asiff&color=blue)](https://github.com/talha-asiff)
+  <img src="https://komarev.com/ghpvc/?username=talha-asiff&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
