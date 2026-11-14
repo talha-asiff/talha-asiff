@@ -75,12 +75,6 @@ open_to:
   </a>
 </p>
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
-
 
 
 <p align="center">
@@ -90,14 +84,6 @@ open_to:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talha-asiff&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talha-asiff&theme=github_dark&utcOffset=5" />
-</p>
-
----
-
-## 📈 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/talha-asiff/talha-asiff/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
