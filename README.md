@@ -1,8 +1,41 @@
+
+
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                   :~.~                                                                                                         
+                   ^^>**                                                                                                        
+                 ~)}[+::>>                                                                                                      
+                   =<+=>]]((%%%%%%%)..:~^})**                                                                                   
+               :*={%%%%%#}}}%%%%%%{)>((][%}>                                                                                    
+             }%%}%%%%%%%%%%%%%%#%#()(]]{%#)                                                                                     
+           .%%%%%%%%%%%%%%%[%%%}%{%#}{%%}(                                                                                      
+           {%%})[%%%#~-+]%%{%%[*(}%%%%%%{              %%%%%%%%     %%     %%%%     %%%%    %    .%%                            
+           +>>^}##%%%=    -<~%]>]%%%%%%%%                %%%%      %%%%^   %%%%     %%%%%%%%%   % %%%%:                          
+          . .~<([{{#{%#.  )%#})*:<:::=#%%%~              %%%%    (  %%%%(  %%%%     %%%%    %   %==%%%%*                         
+        *=. ~=-+())#%##%%({%%%%%%    +%%%%(              %%%%   <^~~^%%%%} %%%%%%%% %%%%    %  %    %%%%<                        
+      :*~:.        ..*%%%%]}%%%#[}%%%%%%%%.                                                                                     
+     :~         :~~=#%%%%%[~   ~%%%%%%%%%[+                                                                                     
+    .-       .=.-**}#{[{}}[]:>%%%%{[]<[{[]]>                                                                                    
+             .   -*<(+-       ~^{{%#> ~(]]()>:             %]     %%%%% : =%%%% %%%%%%%%                                          
+              :--     ..::-=~.:+>))(<*(}())>^^.          .%%%%   %%%%%>   -%%%% #%%%                                       
+                              -><()*(<%]<[[]<*:         (  %%%%   :%%%%%. -%%%% #%%%%%%%                                            
+                          :++*==- .:-]%[<[](<*~        %%%%%%%%%~   ]%%%[ ~%%%% %%%%=                                            
+                 .:-..             +[%#)]#]()*~       %%      ===~ %%%%    ===.  ===                                             
+                  ::~+=+=~:.     :=(%%{)][]((>+                                                                                 
+                      .       .-~^[%%{>>](<))*+:                                                                                
+               . . .          .+<]{{[**<>>^><*+=                                                                                
+                    .-..  .=<)>>(<]}]-=>>^**^^^+                                                                                
+         :-=:....           .:=^)}#]+-=*>^=~=*^=                                                                                
+          ~*>>(()<<=.     .:*([%#(>+. ~^>=~~=^+-.                                                                               
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
 <div align="center">
-
-# Muhammad Talha Asif
-
-### Cross-Platform Flutter Developer | AI Automation Engineer | Systems Programmer
+  
+### Cross-Platform Flutter Developer | AI Automation Engineer | Embedded Systems 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-talhaasiff.netlify.app-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://talhaasiff.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha_Asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321)
@@ -11,13 +44,11 @@
 **Lahore, Punjab, Pakistan**
 
 </div>
-
 ## About Me
 
 Cross-platform app developer building fast, scalable and pixel-perfect mobile, desktop and web experiences. I combine high-level Flutter/UI engineering with low-level C/C++ systems knowledge to create software that is both visually polished and technically efficient.
 
 - BS Software Engineering student at **COMSATS University Lahore** with a **3.6 CGPA**
-- Harvard **CS50x** graduate
 - GitHub and Open-Source Head at **IEEE Robotics and Automation Society, COMSATS Lahore**
 - Preparing for **Google Summer of Code 2027**
 - Currently exploring bare-metal programming, operating systems, networking and computer science fundamentals
