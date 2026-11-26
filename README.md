@@ -1,107 +1,118 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Muhammad%20Talha%20Asif&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Software Engineer%20Lead%20%40%20Unicodrex%20%7C%20Cross-Platform%20App%20Developer%20%7C%20BSSE%20Student&descAlignY=62&descSize=15&descAlign=50" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Talha+Asif;Software+Engineer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/talha-asiff/talha-asiff/output/github-contribution-grid-snake-dark.svg" alt="Talha's Contribution Snake" width="100%" />
-</div>
-
 <div align="center">
 
-[![My Portfolio](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge&logo=google-chrome)](https://talhaasiff.netlify.app/) <br>
-[![Profile Views](https://komarev.com/ghpvc/?username=talha-asiff&color=blue)](https://github.com/talha-asiff)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notur_heichou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaasif.dev@gmail.com) 
+# Muhammad Talha Asif
+
+### Cross-Platform Flutter Developer | AI Automation Engineer | Systems Programmer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-talhaasiff.netlify.app-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://talhaasiff.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha_Asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321)
+[![Email](https://img.shields.io/badge/Email-talhaasif.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaasif.dev@gmail.com)
+
+**Lahore, Punjab, Pakistan**
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talha-asiff&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile Views" />
-</p>
+## About Me
 
----
+Cross-platform app developer building fast, scalable and pixel-perfect mobile, desktop and web experiences. I combine high-level Flutter/UI engineering with low-level C/C++ systems knowledge to create software that is both visually polished and technically efficient.
 
-## 👾 About Me
+- BS Software Engineering student at **COMSATS University Lahore** with a **3.6 CGPA**
+- Harvard **CS50x** graduate
+- GitHub and Open-Source Head at **IEEE Robotics and Automation Society, COMSATS Lahore**
+- Preparing for **Google Summer of Code 2027**
+- Currently exploring bare-metal programming, operating systems, networking and computer science fundamentals
 
-```yaml
-name: Muhammad Talha Asif
-role: Flutter Cross-Platform App Developer | Software Engineer
-location: Lahore, Pakistan
+## What I Build
 
-what_i_do:
-  - Build Apps, websites and Games
-  - BS Software Engineering Student @ COMSATS Lahore
+- Cross-platform Android, iOS, Windows, macOS, Linux and web apps with Flutter
+- Real-time networking tools and LAN applications with C/C++ and Winsock
+- AI agents and workflow automation with n8n
+- Cross-platform 2D and 3D games with Godot and Raylib
+- Firebase-backed applications and UI/UX-focused frontends
+- Linux tools, Bash scripts and server-side utilities
 
-currently:
-  - 👨‍💻 Harvard CS50x Projects
-  - 🏗️ Preparing for Google Summer of Code 2027
-  - 📚 Studying System level C/C++ (Bare metal programming, Ardunio programming, Data Structures and Algorithms)
+## Featured Projects
 
-open_to:
-  - On-site Flutter App Dev & Software Engineer internships (Lahore, Pakistan)
-  - Hackathon collaborations
-```
+| Project | Description | Stack |
+|---|---|---|
+| [Momentum](https://github.com/talha-asiff/Momentum) | Habit tracker with task reminders, streak tracking and local persistence | Flutter, Hive, Notifications |
+| [Superchat](https://github.com/talha-asiff/superchat_app) | Anonymous, lightweight real-time chat without account creation | Flutter, Firebase |
+| [COMSATS Merit Calculator](https://comsats-merit-calculator.netlify.app/) | Merit calculator for COMSATS admissions | Flutter for Web |
+| [Thundernet](https://github.com/talha-asiff/thundernet) | Local-area-network chat application | C, C++, Winsock |
+| [WinServo](https://github.com/talha-asiff/winservo) | Windows local server hosting utility | C, C++, Sockets |
+| [Arcade Ninja](https://github.com/talha-asiff/arcade-ninja) | Arcade-style 2D ninja fighting game | C++, Raylib |
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white) ![Autodesk](https://img.shields.io/badge/AutoDesk%20Sketchbook-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![Godot Engine](https://img.shields.io/badge/Godot_Engine-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+### Application Development
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2F2F2F?style=for-the-badge)
 
-## 📌 Pinned Projects
+### Systems and Networking
 
-<p align="center">
-  <a href="https://github.com/talha-asiff/comsats_merit_calculator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=comsats_merit_calculator&theme=react&hide_border=true&bg_color=0d1117" alt="comsats_merit_calculator" />
-  </a>
-  <a href="https://github.com/talha-asiff/superchat_app">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=superchat_app&theme=react&hide_border=true&bg_color=0d1117" alt="superchat_app" />
-  </a>
-  <a href="https://github.com/talha-asiff/Winservo">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=Winservo&theme=react&hide_border=true&bg_color=0d1117" alt="Winservo" />
-  </a>
-  <a href="https://github.com/talha-asiff/NetSOCK">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=NetSOCK&theme=react&hide_border=true&bg_color=0d1117" alt="NetSOCK" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/talha-asiff/Momentum">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=Momentum&theme=react&hide_border=true&bg_color=0d1117" alt="Momentum" />
-  </a>
-  <a href="https://github.com/talha-asiff/thundernet">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=talha-asiff&repo=thundernet&theme=react&hide_border=true&bg_color=0d1117" alt="thundernet" />
-  </a>
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### Web, AI and Game Development
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talha-asiff&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talha-asiff&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talha-asiff&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talha-asiff&theme=github_dark&utcOffset=5" />
-</p>
+## GitHub Stats
 
----
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=talha-asiff&show_icons=true&theme=github_dark&hide_border=true" alt="Talha's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-asiff&layout=compact&theme=github_dark&hide_border=true" alt="Talha's top languages"/>
 
-## 📬 Let's Connect
+</div>
 
-I'm actively looking for **on-site/remote App Dev, Software & DevOps Engineer internships or junior roles** in all over the world.
-If you're hiring, mentoring, or just want to talk, reach out to me.
+## Learning and Interests
 
-<p align="center">
-  <a href="https://linkedin.com/in/talha-asif-439651321">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:talhaasif.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- Bare-metal programming and freestanding environments
+- Operating systems and assembly-level initialization
+- Data structures and algorithms
+- Computer networking and low-level socket programming
+- Digital electronics and hardware control
+- Open-source software development
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+## Community and Leadership
+
+- GitHub and Open Source Head at IEEE RAS, COMSATS Lahore
+- Member of **Google Developer Groups on Campus COMSATS Lahore**
+- Member of **GDG Lahore**
+- Member of **Microsoft Learn Student Ambassadors, COMSATS Lahore**
+- Member of **AWS Builders Group, COMSATS Lahore**
+
+## Certifications and Programs
+
+- Harvard University CS50x
+- LoopLearn Session 2026: Generative AI, Web Development Fundamentals and Git/GitHub
+- AI Data Analytics - CST COMSATS University Lahore
+- Arduino Workshop - Ambassadors of Computer Engineering, COMSATS University Lahore
+- Deloitte Australia Cyber Job Simulation
+- HP LIFE: Data Science and Analysis
+- DataCamp: Fundamentals of AI
+- DataCamp: AI for Work
+
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://talhaasiff.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-asif-439651321)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:talhaasif.dev@gmail.com)
+
+</div>
